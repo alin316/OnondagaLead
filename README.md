@@ -1,2 +1,2 @@
-# Onondaga County Lead Violation Visualization
-Lead Violation Mapping for Onondaga County
+# Syracuse Lead Violation & Crime Data Visualization
+Lead Violation & Reported Crime Mapping for the City of Syracuse.
