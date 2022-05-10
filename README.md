@@ -19,13 +19,12 @@ new_onondaga.gpkg (taken from previous assigments)
 
 projectcode.py (the script) 
 
-# Outputs 
-Python Output Files: 
-lead.qgz
-new_onondaga.gpkg
-pie_plog.png
+# Python Outputs 
+lead.qgz,
+new_onondaga.gpkg,
+pie_plog.png,
 crime.gpkg
 
-QGIS Output Files: 
-basicmap.pdf
+# QGIS Outpus 
+basicmap.pdf,
 leadmap.pdf
