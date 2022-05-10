@@ -15,15 +15,17 @@ Lead_Violations_Data.csv & Shape file
 crime_data.csv & Shape file: 
   Found exactly using this URL: https://data.syrgov.net/datasets/d3c98278e2864a2bbcd00e6e30358856_0/explore?location=43.035505%2C-76.140695%2C13.88
   
-new_onondaga.gpkg (taken from previous assigments) 
+onondaga.gpkg (taken from previous assigments) 
 
 projectcode.py (the script) 
 
+
+
 # Python Outputs 
 lead.qgz,
-new_onondaga.gpkg,
 pie_plog.png,
-crime.gpkg
+crime.gpkg, 
+joined.gpkg 
 
 # QGIS Outpus 
 basicmap.pdf,
