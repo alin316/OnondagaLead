@@ -17,12 +17,14 @@ crime_data.csv & Shape file:
   
 onondaga.gpkg (taken from previous assigments) 
 
-projectcode.py (the script) 
+projectcode.py (Script #1) 
+
+count_code.py (Script #2)
 
 
 
 # Python Outputs 
-lead.qgz,
+leadpoints.gpkg,
 pie_plog.png,
 crime.gpkg, 
 joined.gpkg 
@@ -30,3 +32,8 @@ joined.gpkg
 # QGIS Outpus 
 basicmap.pdf,
 leadmap.pdf
+
+# Other Info
+It does not matter as to what order the scrips are run.
+The output files are going to be crime.gpkg and lead.qgzpoints that indicate how many occurances of an incident so there are no units. 
+joined.pgkg is going to plot the lead points correcly on to the block groups of Syracuse 
