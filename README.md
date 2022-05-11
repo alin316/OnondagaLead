@@ -21,7 +21,26 @@ projectcode.py (Script #1)
 
 count_code.py (Script #2)
 
+# Discussion
+The 2022 Crime Data Part 1 information provided by the city of Syracuse contains 219 Records. The 2020 Lead Data provided by the Onondaga County 1307 records. 
 
+After analyzing the crime data, this was the breakdown of the different types of crimes. 
+
+![pie_plog](https://user-images.githubusercontent.com/98330114/167912055-5a2fc665-a86d-4649-ae70-9fbba5bd74c1.png)
+
+Next, is a QGIS Map of each crime record and lead violation record plotted according to the location. There are some points outside of the City of Syracsue in Onondaga County (Author Note: I attempted to edit those points out but Adobe Illustrator but could not activate clipping mask to edit it out)
+Green Dots = Crime Points
+Purple Dots = Lead Points
+![basicmap-1](https://user-images.githubusercontent.com/98330114/167922075-93018616-08e0-49b0-8e04-62d2dc82ab88.png)
+
+The final map from QGIS is a heatmap of where the most reported lead violations are in Syracuse. 
+
+![leadmap-1](https://user-images.githubusercontent.com/98330114/167922412-b3aacd07-47ac-4ed9-ae8e-f5b1c5a2fb32.png)
+
+# Results
+
+Goal of this project is not to say that lead violations causes crime in Syracuse. It may be a combination of systemic issues that leads to increase in crime.
+Lead Poisoning takes time to affect cognitive functions. If violations persist in the future, it may affect crime rates in the future. 
 
 # Python Outputs 
 leadpoints.gpkg,
