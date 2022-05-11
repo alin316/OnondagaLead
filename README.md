@@ -22,11 +22,16 @@ projectcode.py (Script #1)
 count_code.py (Script #2)
 
 # Discussion
-The 2022 Crime Data Part 1 information provided by the city of Syracuse contains 219 Records. The 2020 Lead Data provided by the city of Syracuse contains 1307 records. 
+The 2022 Crime Data Part 1 information provided by the city of Syracuse contains 219 Records. The 2020 Lead Data provided by the Onondaga County 1307 records. 
 
 After analyzing the crime data, this was the breakdown of the different types of crimes. 
 
-basicmap.pdf
+![pie_plog](https://user-images.githubusercontent.com/98330114/167912055-5a2fc665-a86d-4649-ae70-9fbba5bd74c1.png)
+
+Next, is a QGIS Map of each crime record and lead violation record plotted according to the location. There are some points outside of the City of Syracsue in Onondaga County (Author Note: I attempted to edit those points out but Adobe Illustrator was unable to do that)
+
+![basicmap](https://user-images.githubusercontent.com/98330114/167914328-4c6bca2b-9e72-40ca-a5a8-09fb1c4531ef.png)
+
 
 
 # Python Outputs 
