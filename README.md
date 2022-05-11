@@ -21,6 +21,12 @@ projectcode.py (Script #1)
 
 count_code.py (Script #2)
 
+# Discussion
+The 2022 Crime Data Part 1 information provided by the city of Syracuse contains 219 Records. The 2020 Lead Data provided by the city of Syracuse contains 1307 records. 
+
+After analyzing the crime data, this was the breakdown of the different types of crimes. 
+
+basicmap.pdf
 
 
 # Python Outputs 
