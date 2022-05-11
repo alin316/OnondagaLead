@@ -30,8 +30,8 @@ After analyzing the crime data, this was the breakdown of the different types of
 
 Next, is a QGIS Map of each crime record and lead violation record plotted according to the location. There are some points outside of the City of Syracsue in Onondaga County (Author Note: I attempted to edit those points out but Adobe Illustrator was unable to do that)
 
-![basicmap](https://user-images.githubusercontent.com/98330114/167914328-4c6bca2b-9e72-40ca-a5a8-09fb1c4531ef.png)
 
+[basicmap.pdf](https://github.com/alin316/OnondagaLead/files/8672303/basicmap.pdf)
 
 
 # Python Outputs 
